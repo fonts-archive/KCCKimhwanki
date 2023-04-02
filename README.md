@@ -32,7 +32,7 @@ font-face
 
 ```
 @font-face {
-    font-family: 'KCC Ahnjunggeun';
+    font-family: 'KCC Kimhwanki';
     font-weight: normal;
     font-style: normal;
     font-display: swap;
