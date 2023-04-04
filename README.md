@@ -15,7 +15,7 @@ font-family: 'KCC Kimhwanki';
 link
 
 ```
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/fonts-archive/KCCKimhwanki/KCCKimhwanki.css"/>
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/fonts-archive/KCCKimhwanki/KCCKimhwanki.css" type="text/css"/>
 ```
 
 &nbsp;
