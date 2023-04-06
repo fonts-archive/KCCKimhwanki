@@ -3,6 +3,8 @@
     font-weight: normal;
     font-style: normal;
     font-display: swap;
-    src: url('https://cdn.jsdelivr.net/gh/fonts-archive/KCCKimhwanki/KCCKimhwanki.otf') format('opentype'),
+    src: url('https://cdn.jsdelivr.net/gh/fonts-archive/KCCKimhwanki/KCCKimhwanki.woff2') format('woff2'),
+         url('https://cdn.jsdelivr.net/gh/fonts-archive/KCCKimhwanki/KCCKimhwanki.woff') format('woff'),
+         url('https://cdn.jsdelivr.net/gh/fonts-archive/KCCKimhwanki/KCCKimhwanki.otf') format('opentype'),
          url('https://cdn.jsdelivr.net/gh/fonts-archive/KCCKimhwanki/KCCKimhwanki.ttf') format('truetype');
 }
